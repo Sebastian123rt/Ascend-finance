@@ -1,2 +1,2 @@
-# Ascend-finance
-A pioneering Bitcoin-based dApp designed to facilitate secure and transparent payments for brokers, proprietary trading firms, and individual traders.
+# Ascend finance
+A Bitcoin-based decentralized application that uses AI to streamline payments between traders, brokers, and prop firms, improving transparency and reducing friction
